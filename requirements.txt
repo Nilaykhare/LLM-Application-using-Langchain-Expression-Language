@@ -30,3 +30,11 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+langgraph
+httpx
